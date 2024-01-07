@@ -185,10 +185,10 @@
         "Category": "Navigation",
         "Caption": "Fluid Gesture Navigation for Home Button devices, before applying read the documentation in 'Advanced Settings', it goes throughs basic information and known bugs",
         "MinIOSVersion": "14.0",
-        "MaxIOSVersion": "16.6",
+        "MaxIOSVersion": "16.6.1",
         "AdditionalSupportedIOS": {
           "MinIOSVersion_CustomLabel": "14.0",
-          "MaxIOSVersion_CustomLabel": "16.6b1",
+          "MaxIOSVersion_CustomLabel": "16.6.1",
           "Build": [
             "20G5026e"
           ]
